@@ -6,5 +6,8 @@ I built this simple html page as an exercise while working on module 9 at mitxpr
 2. Open index.html in your browser
 
 
+# Future Improvements Roadmap
+None!
+
 # License
-see license.md
+MIT. See LICENSE.md
